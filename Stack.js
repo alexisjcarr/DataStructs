@@ -1,3 +1,4 @@
+/*=== Stack class ===*/
 class Stack {
   constructor() {
     this.data = []
